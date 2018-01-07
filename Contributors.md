@@ -2,4 +2,5 @@
 
 2. Nishant S (http://github.com/nishsatish) : Full-stack web developer
 
-3. Rohit Jayanthi (http://github.com/RJayanthi16) : Student 
+3. Rohit Jayanthi (http://github.com/RJayanthi16) : Student
+
